@@ -15,7 +15,7 @@ body {
 
 a {
   text-decoration: none;
-  color: #85BF4B;
+  color: #95c1b7;
 }
 
 a:hover {
@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #85BF4B;
+  background: #95c1b7;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -76,7 +76,7 @@ h1, h2, h3, h4, h5, h6 {
   top: -50px;
 }
 #topbar i {
-  color: #85BF4B;
+  color: #95c1b7;
   line-height: 0;
 }
 #topbar i span {
@@ -122,7 +122,7 @@ h1, h2, h3, h4, h5, h6 {
 # Book a table button Menu
 --------------------------------------------------------------*/
 .book-a-table-btn {
-  background: #85BF4B;
+  background: #95c1b7;
   color: #fff;
   border-radius: 50px;
   margin: 0 0 0 20px;
@@ -181,7 +181,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-left: 5px;
 }
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
-  color: #85BF4B;
+  color: #95c1b7;
 }
 .navbar .dropdown ul {
   display: block;
@@ -211,7 +211,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 12px;
 }
 .navbar .dropdown ul a:hover, .navbar .dropdown ul .active:hover, .navbar .dropdown ul li:hover > a {
-  color: #85BF4B;
+  color: #95c1b7;
 }
 .navbar .dropdown:hover > ul {
   opacity: 1;
@@ -294,7 +294,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #433f39;
 }
 .navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
-  color: #85BF4B;
+  color: #95c1b7;
 }
 .navbar-mobile .getstarted, .navbar-mobile .getstarted:focus {
   margin: 15px;
@@ -320,7 +320,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 12px;
 }
 .navbar-mobile .dropdown ul a:hover, .navbar-mobile .dropdown ul .active:hover, .navbar-mobile .dropdown ul li:hover > a {
-  color: #85BF4B;
+  color: #95c1b7;
 }
 .navbar-mobile .dropdown > .dropdown-active {
   display: block;
@@ -372,7 +372,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
 }
 #hero h2 span {
-  color: #85BF4B;
+  color: #95c1b7;
 }
 #hero p {
   width: 80%;
@@ -440,10 +440,10 @@ h1, h2, h3, h4, h5, h6 {
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
   color: #fff;
-  border: 2px solid #85BF4B;
+  border: 2px solid #95c1b7;
 }
 #hero .btn-menu:hover, #hero .btn-book:hover {
-  background: #85BF4B;
+  background: #95c1b7;
   color: #fff;
 }
 @media (max-width: 768px) {
@@ -482,7 +482,7 @@ section {
   color: #5f5950;
 }
 .section-title h2 span {
-  color: #85BF4B;
+  color: #95c1b7;
 }
 .section-title p {
   margin: 15px auto 0 auto;
@@ -583,7 +583,7 @@ section {
 }
 .about .content ul i {
   font-size: 20px;
-  color: #85BF4B;
+  color: #95c1b7;
   position: absolute;
   left: 0;
   top: 2px;
@@ -601,7 +601,7 @@ section {
 .about .play-btn {
   width: 94px;
   height: 94px;
-  background: radial-gradient(#85BF4B 50%, rgba(255, 176, 59, 0.4) 52%);
+  background: radial-gradient(#95c1b7 50%, rgba(255, 176, 59, 0.4) 52%);
   border-radius: 50%;
   display: block;
   position: absolute;
@@ -646,7 +646,7 @@ section {
   background: rgba(198, 16, 0, 0);
 }
 .about .play-btn:hover::after {
-  border-left: 15px solid #85BF4B;
+  border-left: 15px solid #95c1b7;
   transform: scale(20);
 }
 .about .play-btn:hover::before {
@@ -715,7 +715,7 @@ section {
   display: block;
   font-size: 28px;
   font-weight: 700;
-  color: #ff9b08;
+  color: #ec6a6d;
 }
 .why-us .box h4 {
   font-size: 24px;
@@ -731,7 +731,7 @@ section {
   padding: 0;
 }
 .why-us .box:hover {
-  background: #85BF4B;
+  background: #95c1b7;
   padding: 30px 30px 70px 30px;
   box-shadow: 10px 15px 30px rgba(0, 0, 0, 0.18);
 }
@@ -760,12 +760,12 @@ section {
   margin: 0 3px 10px 3px;
   transition: all ease-in-out 0.3s;
   background: #fff;
-  border: 2px solid #85BF4B;
+  border: 2px solid #95c1b7;
   border-radius: 50px;
 }
 .menu #menu-flters li:hover, .menu #menu-flters li.filter-active {
   color: #fff;
-  background: #85BF4B;
+  background: #95c1b7;
 }
 .menu #menu-flters li:last-child {
   margin-right: 0;
@@ -793,7 +793,8 @@ section {
   position: relative;
   z-index: 3;
   font-weight: 700;
-  color: #ff9b08;
+  color: #ec6a6d;
+  orange
 }
 .menu .menu-content span {
   background: #fff;
@@ -829,11 +830,11 @@ section {
   font-size: 15px;
 }
 .specials .nav-link:hover {
-  color: #85BF4B;
+  color: #95c1b7;
 }
 .specials .nav-link.active {
-  color: #85BF4B;
-  border-color: #85BF4B;
+  color: #95c1b7;
+  border-color: #95c1b7;
 }
 .specials .tab-pane.active {
   -webkit-animation: fadeIn 0.5s ease-out;
@@ -858,7 +859,7 @@ section {
   }
   .specials .nav-link.active {
     color: #fff;
-    background: #85BF4B;
+    background: #95c1b7;
   }
 }
 
@@ -900,7 +901,7 @@ section {
 .events .event-item h3 {
   font-weight: 600;
   font-size: 26px;
-  color: #85BF4B;
+  color: #95c1b7;
 }
 .events .event-item .price {
   font-size: 26px;
@@ -909,7 +910,7 @@ section {
   margin-bottom: 15px;
 }
 .events .event-item .price span {
-  border-bottom: 2px solid #85BF4B;
+  border-bottom: 2px solid #95c1b7;
 }
 .events .event-item ul {
   list-style: none;
@@ -921,7 +922,7 @@ section {
 .events .event-item ul i {
   font-size: 20px;
   padding-right: 4px;
-  color: #85BF4B;
+  color: #95c1b7;
 }
 .events .event-item p:last-child {
   margin-bottom: 0;
@@ -937,7 +938,7 @@ section {
   opacity: 1;
 }
 .events .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #85BF4B;
+  background-color: #95c1b7;
 }
 
 /*--------------------------------------------------------------
@@ -1008,7 +1009,7 @@ section {
   padding: 10px 12px;
 }
 .book-a-table .php-email-form button[type=submit] {
-  background: #85BF4B;
+  background: #95c1b7;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -1112,7 +1113,7 @@ section {
   color: #7a7368;
 }
 .chefs .member .social a:hover {
-  color: #85BF4B;
+  color: #95c1b7;
 }
 .chefs .member .social i {
   font-size: 16px;
@@ -1178,7 +1179,7 @@ section {
   font-family: "Comic Neue", sans-serif;
 }
 .testimonials .testimonial-item .stars {
-  color: #85BF4B;
+  color: #95c1b7;
   margin-bottom: 10px;
 }
 .testimonials .testimonial-item .quote-icon-left, .testimonials .testimonial-item .quote-icon-right {
@@ -1212,7 +1213,7 @@ section {
   opacity: 1;
 }
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #85BF4B;
+  background-color: #95c1b7;
 }
 @media (min-width: 992px) {
   .testimonials .testimonial-item p {
@@ -1232,7 +1233,7 @@ section {
 }
 .contact .info i {
   font-size: 20px;
-  color: #85BF4B;
+  color: #95c1b7;
   float: left;
   width: 44px;
   height: 44px;
@@ -1258,7 +1259,7 @@ section {
   color: #7a7368;
 }
 .contact .info:hover i {
-  background: #85BF4B;
+  background: #95c1b7;
   color: #fff;
 }
 .contact .php-email-form {
@@ -1316,7 +1317,7 @@ section {
   padding: 10px 12px;
 }
 .contact .php-email-form button[type=submit] {
-  background: #85BF4B;
+  background: #95c1b7;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -1357,7 +1358,8 @@ section {
 #footer h3 {
   font-size: 36px;
   font-weight: 700;
-  color: #85BF4B;
+  color: #ec6a6d;
+
   position: relative;
   padding: 0;
   margin: 0 0 15px 0;
@@ -1366,7 +1368,7 @@ section {
   font-size: 15;
   font-style: italic;
   padding: 0;
-  margin: 0 0 40px 0;
+  margin: 0 0 20px 0;
 }
 #footer .social-links {
   margin: 0 0 40px 0;
@@ -1386,7 +1388,7 @@ section {
   transition: 0.3s;
 }
 #footer .social-links a:hover {
-  background: #85BF4B;
+  background: #95c1b7;
 }
 #footer .copyright {
   margin: 0 0 5px 0;
